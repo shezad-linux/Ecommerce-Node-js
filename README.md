@@ -75,4 +75,3 @@ Free to use for education not commercial
 
 ---
 
-You can customize this README file further based on any additional features or configuration specific to your Node.js E-commerce application.
